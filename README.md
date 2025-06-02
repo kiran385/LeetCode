@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/kiran385/LeetCode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/kiran385/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kiran385/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/kiran385/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/kiran385/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
