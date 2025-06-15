@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kiran385/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kiran385/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/kiran385/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/kiran385/LeetCode/tree/master/0135-candy) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kiran385/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kiran385/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kiran385/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kiran385/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
