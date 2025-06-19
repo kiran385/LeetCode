@@ -7,6 +7,7 @@
 | [0135-candy](https://github.com/kiran385/LeetCode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/kiran385/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kiran385/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kiran385/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kiran385/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kiran385/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kiran385/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -26,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kiran385/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kiran385/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kiran385/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Breadth-First Search
@@ -59,6 +61,7 @@
 | ------- |
 | [0135-candy](https://github.com/kiran385/LeetCode/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kiran385/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kiran385/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kiran385/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kiran385/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kiran385/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
