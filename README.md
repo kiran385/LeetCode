@@ -17,6 +17,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kiran385/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kiran385/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kiran385/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/kiran385/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kiran385/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kiran385/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kiran385/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kiran385/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kiran385/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/kiran385/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/kiran385/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kiran385/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kiran385/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/kiran385/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
