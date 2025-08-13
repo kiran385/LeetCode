@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kiran385/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kiran385/LeetCode/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kiran385/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kiran385/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/kiran385/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kiran385/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kiran385/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kiran385/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
