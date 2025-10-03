@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/kiran385/LeetCode/tree/master/0135-candy) |
+| [0407-trapping-rain-water-ii](https://github.com/kiran385/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kiran385/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/kiran385/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kiran385/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -64,10 +65,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/kiran385/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/kiran385/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/kiran385/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/kiran385/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Math
 |  |
@@ -139,6 +142,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/kiran385/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/kiran385/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kiran385/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kiran385/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
