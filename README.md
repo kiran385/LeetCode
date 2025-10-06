@@ -77,6 +77,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/kiran385/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kiran385/LeetCode/tree/master/0326-power-of-three) |
+| [0866-rectangle-overlap](https://github.com/kiran385/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kiran385/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kiran385/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/kiran385/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kiran385/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/kiran385/LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
