@@ -12,6 +12,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kiran385/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/kiran385/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kiran385/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kiran385/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/kiran385/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kiran385/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kiran385/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/kiran385/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/kiran385/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kiran385/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/kiran385/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kiran385/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kiran385/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
