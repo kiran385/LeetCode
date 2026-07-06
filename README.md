@@ -8,6 +8,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/kiran385/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kiran385/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/kiran385/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1288-remove-covered-intervals](https://github.com/kiran385/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kiran385/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kiran385/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/kiran385/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kiran385/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1288-remove-covered-intervals](https://github.com/kiran385/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kiran385/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kiran385/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kiran385/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
